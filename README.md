@@ -4,7 +4,9 @@ Data analysis of the League of Legends account **djfalcon#NA1** (NA), answering 
 
 > "No matter what I do, I feel like I can never climb out of Iron. Why?"
 
-The full question and the analysis live in the **[issue thread](../../issues/1)** — start there.
+**Start here → [issue 2: the evolving answer, written for djfalcon](../../issues/2)** — clean digests showing how the conclusions changed as evidence arrived.
+
+The raw work lives elsewhere: [issue 1](../../issues/1) is the full lab log (the original question, every analysis pass, and subagent reports in order), and each subtask has its own issue — open = running, closed = done. Every analysis subagent signs its comments with a link to its instructions in [`agents/`](agents/).
 
 ## What's here
 
