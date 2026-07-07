@@ -63,7 +63,8 @@ for i, mid in enumerate(ids):
     p = next(x for x in info['participants'] if x['puuid'] == PUUID)
     dur = info['gameDuration']
     mins = dur / 60 if dur else 1
-    team = next(t for t in info['teams'] if t['teamId'] == p['teamId'])
+    # Arena games use subteams whose ids aren't in info['teams']
+    team = next((t for t in info['teams'] if t['teamId'] == p['teamId']), None)
     team_kills = sum(x['kills'] for x in info['participants'] if x['teamId'] == p['teamId'])
     rows.append({
         'match_id': mid,
@@ -94,8 +95,8 @@ for i, mid in enumerate(ids):
         'largest_multikill': p['largestMultiKill'],
         'first_blood': p.get('firstBloodKill', False),
         'turret_kills': p.get('turretKills', 0),
-        'objectives_baron': team['objectives']['baron']['kills'],
-        'objectives_dragon': team['objectives']['dragon']['kills'],
+        'objectives_baron': team['objectives']['baron']['kills'] if team else None,
+        'objectives_dragon': team['objectives']['dragon']['kills'] if team else None,
         'game_version': info['gameVersion'],
     })
     if (i + 1) % 20 == 0:
