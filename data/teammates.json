@@ -1,0 +1,1253 @@
+{
+ "djfalcon_puuid": "i-wo_QJ1JiotACrlb6wlsPLYhfVCXCwDogb03ZcheMSsLMUY9MQknG3RqhXtWIwNoKtPuekiB6Oynw",
+ "n_games": 104,
+ "overall_wl": [
+  39,
+  65
+ ],
+ "per_game": [
+  {
+   "match_id": "NA1_5578180863",
+   "game_creation_utc": "2026-06-09T17:28:43Z",
+   "win": false,
+   "teammate_puuids": [
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "Sn-yGil6bMCtJues4N3dLuXgzwAtHmikmFZv_Miu7qDuq13cN_S9U7_2fRwBragdEoATnvwssRATUw",
+    "f2MOoC47BraRFn_OcZA3hP3wyxpb4ioRfkq5Tfd-3K2Q3kx4AVlJ3IdsYrGGf9KT7xOTH8eWM914pw",
+    "NMjN4i1zeltnKqsRE4FcM-cccOPMtDeRsptVWkD99k0IeGYU7Yz1b0HCpCy_q9OadwT-YEPX2lMnkQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5578192999",
+   "game_creation_utc": "2026-06-09T18:07:44Z",
+   "win": false,
+   "teammate_puuids": [
+    "Jsjs30D1qcur2a3PtqyIG58jCEwVVEbqWFZZdIX3oXCGM9w7MFsyFCQXYPcYuUpU1U6XfNl7Sf1KVA",
+    "E5hXLpaXe-fDFtcElNehwNTUWKYchl0sWSfsCJAiX0PLq4Bn-iv9TPX1QKtWzV9ioQcpD-kjEbuSkA",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "lH8bPkRATaSBTUmdluxk0OimMOYICnokVOGHNuAsJrK-AR9g-r_g6NJ-2BbBJhPszlycrTYq66PHLQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5578841211",
+   "game_creation_utc": "2026-06-10T18:57:33Z",
+   "win": false,
+   "teammate_puuids": [
+    "c7gCWqM5shFqZn2nUSVTCaJ6WAoPafLV2o2HF3hYiG6MdBHGB1CinihQb9nMDRHbnDnX-f1Ho_I1xQ",
+    "YLYd9L-KB2B1cW72CSo-FLzPkGhlgFw7laF_wsSuDcvnfkl5Go4-NHJoIXUJDvJvrorwrEDrnjYOfw",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "PzdleWswGwHxemcf_OpRI8bb7BYpd8Lh-9qeOCbNuzmNFzwpAbTw1prrnKYUDpY8fFZTo5O__825jw"
+   ]
+  },
+  {
+   "match_id": "NA1_5580181511",
+   "game_creation_utc": "2026-06-12T16:52:19Z",
+   "win": false,
+   "teammate_puuids": [
+    "O3Ehv49s867fXeXR8HiTrf4deelCfGAtkddWQQcDn98KwMCiT6j-xCWB3AgVDHlldW4IDXc1ERybCw",
+    "rvyIlpu0xhKFP7Z5xnZ3gE7KkvQLkd0p5gMhPR2PeNkSD_PKwPFmOpns2dZw98Zluo6ogZ_-q6Qj2w",
+    "hIZ2t3cjldN5__mcwm8DRwM3SNA-yETClUZutOhJmkLB4elY9wprDnhquhLEk6MkSi3cv57o5wFCpA",
+    "z0ch5pXxQxacGQlF3mr44IUCgF9Amg9FZHre_YmzIHsz2KsJhvrLNOwr6S7l7fYKgUP3WBlh3x5iug"
+   ]
+  },
+  {
+   "match_id": "NA1_5580198318",
+   "game_creation_utc": "2026-06-12T17:35:46Z",
+   "win": false,
+   "teammate_puuids": [
+    "G5JD_VBRl5R_H8rKXKGC1IEvoJ23r2N983FV4Uptf09oIz6uJuLioo6l6BsVwyE4k2efQMVywG9iDw",
+    "Dqqcsl6cawVaozZHMMlUGdwd97PMrNwojf2HGU7iqXQdMmGA0cJYt6COnTESuczf3oDsJCQS7aNtXw",
+    "uVpi74NeG7TAas-IaSiuanfFIPlk3ODYuM5frsaRlb4n7163-fPKuTLIaLG3WQFmHN7MC9bQi3LzPA",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A"
+   ]
+  },
+  {
+   "match_id": "NA1_5582942072",
+   "game_creation_utc": "2026-06-16T13:38:47Z",
+   "win": true,
+   "teammate_puuids": [
+    "A3OhHlMRNrSatrs66RAcg72zlXYO6UqIlIpRJ9gdi2RPNfxJ76FPtZlrLcXnacGimEN-bNiWWt-hhg",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "DmlMjlXNGc3WiLv9iHGrT0zvWAS1RwUjU4yFD4gmPFjxbrHJd12cAFQdE8TJb_BcF5XS_IQq5sR3RQ",
+    "jHmBAR_OT0Sd1W-6jk_Yes0yS5ybWSY4hPdiIUQjaazkd9Dp-ZL12fs9x2LLsxqVtQfWdWrwLQcE0g"
+   ]
+  },
+  {
+   "match_id": "NA1_5582986577",
+   "game_creation_utc": "2026-06-16T16:54:41Z",
+   "win": false,
+   "teammate_puuids": [
+    "BV3JkfnN7Zs6JJB1s8OMm1PGLQMRLBmqd2WopY_tb34RLOQIdnlGNKua5B-1hUVomCLwDYs-YkMYKQ",
+    "qWzh-3rQSPBBiqphF7GORxARTVpWNs_wom0T5XpQLi0s-TZNPL68ecCpZuhEWYe0wyy9e8zG2X-1uQ",
+    "O7ysGcSI4r9zg9kdow3B3KyIr2Tl_mtgTf7RLYIRjfQrp_oC6ekrAc8NsPHz4C1dr_Z6t28IBovWug",
+    "6TKY5gJqCg7RBxuKzKKnM1bvXvS4uwWLP1IIy4vupoS6XMc7aYxxRi6b6auLlCtSucmZs3XvEgZ7pQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5582995512",
+   "game_creation_utc": "2026-06-16T17:17:11Z",
+   "win": false,
+   "teammate_puuids": [
+    "di_twrv1zBdsyue1kRyQ1Kv29ppYTjsjVeRxiB6puGX5AVefR5AeSKgz-4WF1_gfeMajw5Sv6VAoQg",
+    "WDuxUwV8wtcEsHVC5zeG0dEzgCd74Crf_cu1D17T1MiLDWRvqE3GQnd-RyPTD35g6MyPZ7y0FLT34g",
+    "J-Xdpf9HXBTDaESAZg6bDMZvW2D7V1-50s2NdAB70gg-_Je2cbxyEJR6dox54tK1ZGu32C3W46itww",
+    "Zkim86ljqmNc17CyvKMz-0PC0I9nkFro_K8NDOPmM1kpp39LfLT8GKhtAuywI6s9NxufXcNpmyaInQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5583013541",
+   "game_creation_utc": "2026-06-16T18:10:25Z",
+   "win": false,
+   "teammate_puuids": [
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "RQkw7b4zWXtzA1dHyf6BtRyZcJxMq0dhd1Oq3IlCKbmy_70VWB0RDy2iC8VCsv42iRRdLbd-zPpzmA",
+    "TC9HvFRm1VvuxWZ9grB_xctqiGG4ZalgBzvFVoesVeyF6njA-9U34RZ2rcKOW3QWdUOKZQs131iXKw",
+    "On4M1cpR48EB06yeA7Qr_-0p5KY8mGNVXPjEp0aQxltYQdPIElgd-9B1fr0smmGFuIrSzDGXbdQ6Dg"
+   ]
+  },
+  {
+   "match_id": "NA1_5583574514",
+   "game_creation_utc": "2026-06-17T13:07:51Z",
+   "win": true,
+   "teammate_puuids": [
+    "J0YD1Pc7EmzISpAN3H3som14qJRd9p6Fi3Z9q3EplDhF7cRvuT02TwH9bljFRULT7-ohUazfW7WSCg",
+    "IVG5YNKtO9pf1qAydSvTV8Q7VBDtVzygZAY8j_2MXQs3XfqJwbkjNv-nj-7Wm7DHzojUCuEibAQiXQ",
+    "bpnCt0LdoPCiqUNgsvwRvGaeeo0oF5cwZfx3rXwpm0Jnu2Lc0IN49bUZYUqn3Jkemn3dVQIf2jFCxw",
+    "l94BctGk-J-M9gPIhEbwW6bYS163GJf6jFNzEsoUW1AnEP_JrPsKacnaxb4OkUbUmlER6EKEyk2hsg"
+   ]
+  },
+  {
+   "match_id": "NA1_5583594539",
+   "game_creation_utc": "2026-06-17T15:01:40Z",
+   "win": false,
+   "teammate_puuids": [
+    "-BxcLwUWuQsq1ci9Tjdqp35K38s_2lNbyAs9vpkd2o2dau5NINOiB-HJkEvbVKH2yignIB682940Jg",
+    "uOzJefY_czc_VRM11NoDTOAcqkLDy4dvfQaCfrRwHtECp0qxK2o5E-2dn8ucXp6witZxF5bkdYAVrg",
+    "XyKl-NBxy19YQkfKURO9i0d0fBehm1NpxUPW4BnekKaUSmViN78WaLLEN0eAwboRcFvFdxSlm1neqA",
+    "-f5dAohgtDci7WU2glYaOI0v-0R1QFSXAmVYWOq70CWMnRw5Y4-PHtj_rANpLxqKygurqjeYrCk0kw"
+   ]
+  },
+  {
+   "match_id": "NA1_5583609355",
+   "game_creation_utc": "2026-06-17T16:00:54Z",
+   "win": false,
+   "teammate_puuids": [
+    "QFfwyneEPBplJHPGXzv2aL7SMjdDPSyGHD_6WPPriaMFC60J9CilLaLv8txdD1VZcHEm1MfUcbpiiQ",
+    "A_TcQYawYNTnm2Nlp9rmaHPaep0YISNytmlHTCgpcgGcgKFtcMkKgWCK9c8BVn41z3w1YHQxFwRmpg",
+    "nseiceQngWYkTgGcyyEBvaCHmKWVu9QtBlsab7Ib44_qQEjoyixvN2THeb_KmjfE4s3tRjwdGGec3Q",
+    "O2fWDZ-QE0Q4tC9dGQUggdZXfQmD8_IeZhJn2mLMn6tRHdW2b5u2Oi9Uz3bebuupTSyQQ9zbKM5JgA"
+   ]
+  },
+  {
+   "match_id": "NA1_5583621973",
+   "game_creation_utc": "2026-06-17T16:37:54Z",
+   "win": true,
+   "teammate_puuids": [
+    "vtxNd_-8XtUK3xWgOyKH_dYKO63RVyCBNToSWftiuj689eUriuXGpPamxO5HtitbZ_rpWekPdAG1eA",
+    "AOkpbgG26i2Axc7yHTNAZpOzvuQFuQhgO9qx4NDHzJvo9ccz1DcuEzg_hqs298k_8HmE_an2XpaZSw",
+    "fV7_2909Kc9K02uUB8AeOmhG7e_mMYCK2uKza3fdfFyF0-9TaSqqnLHD4a4FAHPHTzpsc1msCu4BiQ",
+    "fojm5ZVW8Jz7nLdnRx2UcmIwSzsIFZO7w2EOgsaCwVJTwgDhn_zc3U9f5LyiRGhy7ohSThtrEz9M1g"
+   ]
+  },
+  {
+   "match_id": "NA1_5584207194",
+   "game_creation_utc": "2026-06-18T12:54:34Z",
+   "win": false,
+   "teammate_puuids": [
+    "zma-RoQNF50sguoL9Jhw9V5w08eBV3dfoqePY5C-fQWsYDlPBTw52DuKtZE3D3WGKeTVHRBY32-DIg",
+    "jhIj1Orlvg78BlwmXkdW9TrnqwHAr-B1iE18linG-6QSVvRlsttuy102yviAoO0Z6tjAUFSpCIGZKQ",
+    "8AcDs4-oW6rbxZeGhwEw5lk-Bt6WbwBldfIGc4zJCaT4loRTyLAmMIJntjHClBjd6hSWgcoUyBsH2w",
+    "gp7M8T0gHxGXchsRt-AcIHgfzFViCma1bnktS3wgYjP_KHKhCjTPfcj4QcV_PlVLu1zw2tqhDhIubw"
+   ]
+  },
+  {
+   "match_id": "NA1_5584217393",
+   "game_creation_utc": "2026-06-18T13:33:58Z",
+   "win": true,
+   "teammate_puuids": [
+    "8IVYaUI3hAND6JTTv6icy7-Vkf1K7ucVqFHoizpihEPQxJIF_o2AzOoMpkBmx2ILQJfD3Ujlrz9AQQ",
+    "dTRynL_ckZQ0qBYqwvPBzyAMqG2xiOys3iV7-gGhYDepPMG0G-qeqwIAjib85X2vvAKiVYX49jr1eA",
+    "hIZ2t3cjldN5__mcwm8DRwM3SNA-yETClUZutOhJmkLB4elY9wprDnhquhLEk6MkSi3cv57o5wFCpA",
+    "r4CPbSAjRQMrvuw8YDtBTIiuZ5t4ZWE_FmkYl3-dYZry0CtKJdFwyghXmcsxzicnNCFN8UElAzxXxA"
+   ]
+  },
+  {
+   "match_id": "NA1_5584228013",
+   "game_creation_utc": "2026-06-18T14:25:44Z",
+   "win": true,
+   "teammate_puuids": [
+    "2DqS2PFh_KyvAvwSLCCW_nwrdjnGoJ14owVFR_FqYXJVyRfJCEeT9a7LeZN0pPJdhEYskkUMQ9cIcQ",
+    "kUseKwg8fZKrRXzm3YWpI08OUmpzTPXfB2ju3SCJerrBtkjJd3xTdDQ98AHXqxJPDRoKbjhGfYWe5Q",
+    "hIZ2t3cjldN5__mcwm8DRwM3SNA-yETClUZutOhJmkLB4elY9wprDnhquhLEk6MkSi3cv57o5wFCpA",
+    "ChM_skshHKdhbAjb0k8Hk8dAtBrLDg7fHbA_1UxyMvFVjIVvCcgPG-hPoxSH53KsfcAE1Fr8-ihCNQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5584491297",
+   "game_creation_utc": "2026-06-19T00:33:07Z",
+   "win": false,
+   "teammate_puuids": [
+    "psBwOe8pdEna8fRtaPV3SWT_y6TGbuq2dau2xIQkMxSdPn7bl3WR5sF_ZzUCD4mzvSJuMFzp3Vz6JA",
+    "s7W158yAMT7HRGLemjgVrAC2nmZqWGtjDDVIQHKmeqRs-VvS1JnHGSpaz6B4JmXtwphI2yPR28l-uw",
+    "t44ULfaf4Q9h_YcrnHxRzHx8XHsIgtDT1hcMQzrQ2Rr1iLv36DFMFxjJhfYhacz-9IVLEM8GknkT5A",
+    "X8QQ52KDn_Qguk1liQHH6VamPP1NdS49zJGL53eC_MYQ7oOV60H7DdTgx_FubJ8kEkzdXjRwftiF4w"
+   ]
+  },
+  {
+   "match_id": "NA1_5584890628",
+   "game_creation_utc": "2026-06-19T15:28:32Z",
+   "win": false,
+   "teammate_puuids": [
+    "hypIOU2X0NoaR2IzJ-vFRkcaAxvn3n7n8OkXSK7z0-jvtljslrE_LvKLvE6VaXrwWSLp7gn2mHY0GQ",
+    "MLD4DZR3-auNU4jCpt0zgct_mfJYquaQxU-hP6_Tefwc5YWV-cGAhaySzdewo28gt5-zo-_4Q8eZJA",
+    "uKlnlN5BUaQ9n-udyOD9jSbWGoeuhp4RPqo0RDtw8sHHALWKo_0SHqSL0k32Rhkhhw5HLRuNQIe4jg",
+    "9dF5GgrEWNLbVlxtMD3jp9AL_zLNFG6q8mBaBBSpBQ9z-z7BZNZRP3HbNHOQXtKJlZlCn4945pq46g"
+   ]
+  },
+  {
+   "match_id": "NA1_5584908282",
+   "game_creation_utc": "2026-06-19T16:25:23Z",
+   "win": false,
+   "teammate_puuids": [
+    "suCw8LHuXAUuev7Uz1K3wBU3JjrgbpIm8XyUAzYzlVNFwuFTYFi9YbLmCBgESkMUS0eWo14aTle-tg",
+    "JhQVbEnEEQxQoZAL9mnYwvT1dsMEi8hqvj5LlxiXnMiYSKIAajjSDTTsNpgbhN7j1H9gsFl0DPsiEg",
+    "SdUermA-2lbyn0DePJL5I7JLYae9ramwn8TzSbp1Zyc4BndNAhLE5Hnj8zByV7-McNu7kl3M-w0Y-A",
+    "rbyX89JaEZM5PMYbAZAFWxSDZwFvPbtaac-lksPrFcRSEevj3SRnZ1NW5lhBkiYoS0I1ebwWbkGIWA"
+   ]
+  },
+  {
+   "match_id": "NA1_5584925998",
+   "game_creation_utc": "2026-06-19T17:13:25Z",
+   "win": true,
+   "teammate_puuids": [
+    "H3j4R9UPyTxwWEgV7HenfIe0giDE2_p5YKcjeumhk7vc2oCAXiQFyAi_Yz4XdFl2VOBVEhM837ybdQ",
+    "KosE6bKkBcLzxezrrshfwOelT6c87Ei8aEHTG1malbcY4xYT6jvxiZztsUkVDxOse5gaBNfABJdQPw",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "aIKREmN0jyXvVLDIMdmGQMFJRv2wocGyRxN3Ox0Pa8TOtMmM20IdROOPe9pArumO5aurvDn66_IZQQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5584940291",
+   "game_creation_utc": "2026-06-19T17:53:05Z",
+   "win": false,
+   "teammate_puuids": [
+    "LXZb078_eKXJkHjFF23Kc_FC_zSuMQuy5C3JtQDgdgtl4amQGLmkjs-XtcYdn6r8hLNo9npLLhM8Ag",
+    "5hIFTbb7FJxqfGA8yRJ7DrT4epgXlKHtbLOvB4IAC-cobn5Pvp2LGfgU6RVEWKqfun4ENDAYDgx5MQ",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "6Mhphjh-CS0ryEu1W_hKN9hY8YEYytWESBnLRfn9_4j1ZoJoKCLGyEyzefF_VvfY0ZD__1F0oH2GIQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5584950245",
+   "game_creation_utc": "2026-06-19T18:15:39Z",
+   "win": false,
+   "teammate_puuids": [
+    "WIZex9bsvvU8pxin1gXUC0MBJmDuStWhm26gZAe9sxDUMTMzoLE8Xb1vn6deXo3ExSzm_c58Vqn72A",
+    "QbNzESLR2xQ2bJ3woyLjyEOHLA2i64dHPH9jlvAauiH_3OMxtIg3gdTgtAzsxbhvUkeiBNQptc9S-Q",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "NEZ3jvyolU1UHTCSU-tYuh7Ewx7dz-APwjhCuCUL9PNqm99QVj5FpKzx6GCYsU9GSJpcrCc55U2dfg"
+   ]
+  },
+  {
+   "match_id": "NA1_5584979050",
+   "game_creation_utc": "2026-06-19T19:22:09Z",
+   "win": false,
+   "teammate_puuids": [
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "AserrajAgL6qmxsTUsVKzUoK98Sl_6LxULhwGInDVbSNgm-FIpASQUYgfRF1FsV-yYnY6eiNKjalAw",
+    "TU3P_upmRPJ109X7zF84OImGaB2ioytD9nLtHq1Z0V7n4f8qcrCrBXHEIpiiIlNElftlSfiVZTvOyw",
+    "ecFGGoapuITVzGCRuc7L4IYzoI7wYDXtYMw-4a6ThMBAM686XohpEZ6mxNykWtrJSX-DbrfOZKOieQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5585005860",
+   "game_creation_utc": "2026-06-19T20:17:48Z",
+   "win": false,
+   "teammate_puuids": [
+    "zzb0cg_XKIwYfC96-GrTMbUfAlm7-IOnwHjjBLT-A9y_V8PomgVYKqlc73fI0ElXx0g3H7NVQocSAQ",
+    "xSkRRb1ypoyrY7ulfQAJvbPGaDL9lP2VlpqnnR2vokTju8lGzc-HIyRNDwlIhR6_VJji5PAdIvOHjw",
+    "2eGcHOKoQLKF_JALV0jdKrZGvwvePpHjzbLOeKC1D44zVxq_iJoh0PVdm0OjbBx3m3ftuiEj3czB8g",
+    "2kETAdI6c80WtQOnIDWA4-cdjFcC0HkfluOcvCRvzMSyGqjU3d74h5HdRCFqmQRIoImXCIaeOHm1Vg"
+   ]
+  },
+  {
+   "match_id": "NA1_5585042205",
+   "game_creation_utc": "2026-06-19T21:30:50Z",
+   "win": false,
+   "teammate_puuids": [
+    "mv3puWZlzHLDLlPxR-athcWL6orW4qk5ohpLy_phsxJcgilxA3YkD9THnnXCCq4wPLFL44X75KFqrw",
+    "G1dEpgzKPuFoNdWYFIvymruF02cnfDTvPmbH32zMaPAQAVDqVwcb5UbCCBai8qvMWyeVD6LcoNS7mA",
+    "lMlqW3L8bBSbwRZ35vn5wnyo8G5jcHpYvHGFZ8P41n9mRBr42SkUvrnP-gb4wobIepnaW3OVFvokPA",
+    "8vepZJ_NyN2OrJyQU1p4gQGbeVSB8cQ4Q_feiDysk-MUgKJ2HFLV93dl9n5gziGjbrG7-oeX2mwxxA"
+   ]
+  },
+  {
+   "match_id": "NA1_5585043622",
+   "game_creation_utc": "2026-06-19T21:37:19Z",
+   "win": false,
+   "teammate_puuids": [
+    "mv3puWZlzHLDLlPxR-athcWL6orW4qk5ohpLy_phsxJcgilxA3YkD9THnnXCCq4wPLFL44X75KFqrw",
+    "DgOv30VFpdIkba3gtXasFdL5Qyt12VPiVAMdlN0CvXzL0RDC5XpiKdCx19HB2e9bHtiDNU-ADmR8WA",
+    "wYyWK-4_wunuI0vgjTXPUJrz9zVVni1JiB0FEYnX2nvJfQwTQT40HXXewqjlrRIF0i2UBZhnSAYDrQ",
+    "xsZl-ClQTWyZYp4_zyHUHuWq1VWqB53HwSTN3BnKThzkzm-V9FmuGXWtgoTk6BAatO8FqU8U2nSH9g"
+   ]
+  },
+  {
+   "match_id": "NA1_5585079858",
+   "game_creation_utc": "2026-06-19T22:35:19Z",
+   "win": false,
+   "teammate_puuids": [
+    "_rx9Tbn7Y5i8rC0RDnnS5qc8xBuIExgsuThsGKxN9HwCrALt8RczXENOlNTanRolflqf8jmb2_2twg",
+    "BlE9FTRaYi1MspNNyV_qwtqKzq_pu0pi0q8BfUn9JzXwwRQWvvSTNnErhLzbWjjmD-hhN4tk4ayMug",
+    "3epr1S3-ojVkpnyjq1yid3Dbf1ddm94yiOCgEfzAPrb58yjUnXdxufvWy3efb4KN93G-8aZX0QuE7Q",
+    "o957k_X9-jp5Eq9bImv-S0THnK8KMmuXA0L5L6vBwQVZm_yQ-q7ETA7m1CkbSuQJ0Zd29o1fypswsA"
+   ]
+  },
+  {
+   "match_id": "NA1_5585224635",
+   "game_creation_utc": "2026-06-20T02:12:02Z",
+   "win": true,
+   "teammate_puuids": [
+    "UJqg5SzS4F2PlydG5hue7vJTo64MLjhDG8fXk9LATJqLl5_ShepAK2sJpTP7K9lS8U3BZBVgHYTN5Q",
+    "WD4WwUenPuAiB95e6fkx0LDKkuY-oKM4eiGMNeGj_SXlNixJ9DXLt5dJsL9mhIWC914gx0x1W_2m1g",
+    "h20ChDVe7VtKTO1ze7087O1tFuV4faHjqPVOo2m6LUJzTJxIJ5aM8_XISGjR3Z34sJuHp_IVOUjWCA",
+    "xMMKvKl8QmwGr1BxA1M1zH6611ACjq4s1x6nlrLDSR77Y6ibAJe4CceEr0axwWmH6DQ0O-zQP-gD9Q"
+   ]
+  },
+  {
+   "match_id": "NA1_5585529474",
+   "game_creation_utc": "2026-06-20T12:53:04Z",
+   "win": false,
+   "teammate_puuids": [
+    "Y-QiEGP03BEwMYbQ1tFPp-ru1vlDKGOlOI0VGW-hJSd-RRmmKY80Kk_07PO_nx2Mqs1MFw-zOk8mJQ",
+    "nSN_bB2ZqmyCd_fVPNvGUuBIx6Jke4EYEtcS9X6f8KTCeCDTawKeF_qSgYrZOItbCIiSa7CrZw0oSA",
+    "Bq_dX2np1W0QPM4GLHkB8y6PMB2xF3oDWvg5Kvh9r7PYJ2ieW3y3K1Tdy_WzXp49lNAaDz-8veEMKA",
+    "XbKLJ_i4GCtX3hIuIeaIB_xAlpJ8E7EolFX-ZEaLAzy_t8Mq2mM6swDX-zn8bau887QzrSUjhVmOGw"
+   ]
+  },
+  {
+   "match_id": "NA1_5585562736",
+   "game_creation_utc": "2026-06-20T15:14:34Z",
+   "win": false,
+   "teammate_puuids": [
+    "upNs0VkvjOwhW4bi54Ro4KmvRFhZRg60IQUyUDA8Ys9x_jRoiSY6UZhM47VtH9Av1wpuTBTm_FiKhQ",
+    "DX2zFmNvfP71irIjVYGTSaGkKM8un4T5mmErLaU5SQIHRELIkiS0--ajs4flrM5OTrUY0iLonraNTQ",
+    "UxvQdohQ_t-Qe7Fg72Invrr5A0qTJnKuMowPXJWDfj6W7FFO3R-DRIMKgZQsXxob50X5g9NtGm-0ew",
+    "vksF91I-CjFG7uSYFpUzMfxDAIKZisNZXCInKsjDh2Dfvny1u9Li4aW0CozVCTzkZBBEkRYbqRyFqw"
+   ]
+  },
+  {
+   "match_id": "NA1_5585599214",
+   "game_creation_utc": "2026-06-20T17:04:44Z",
+   "win": false,
+   "teammate_puuids": [
+    "GP8Pm0tspcersBo3Qb_HPmd7UxOIzyUUamgUJu-mvTagTf3LEQOD9Nnb9juXJmheHa4_XNVUKBKTYg",
+    "-gJz6dI4NICfnxW0pMnvC6aNzyGEgsdlbcE9CKAuyz5tx7ZxmL_QRdB_djikuipEbKxZ83L7QrAbZw",
+    "-RyyTZFz33QwHAWsl2MqvJTqJdiK-fL10XZYZP8cKupwo6ovVlbPQ762UHfGjH457pNDf_Va76LPHA",
+    "n0LK3ccyf77aHY3EzQbrNwBwl1Vx4aGhvLxx4-_4KxIcsjkqCqYksC26Dat8LEbRVfOT5bpeUOVRjg"
+   ]
+  },
+  {
+   "match_id": "NA1_5585605971",
+   "game_creation_utc": "2026-06-20T17:21:03Z",
+   "win": false,
+   "teammate_puuids": [
+    "afOWkLtZ2H8g6tKXrS6250x9TvAd-WtFnbhFanQoOVmYT5ap9x_UJfFmYVrTSYXpXvo5-2mzFdpPaA",
+    "IMdYBgpfcWKuvZRhiEb-AZQRp7OR_141Bykol6JYV_60p5f-G_Q8syY1efVDzd4-zgqyLxw6vfe89g",
+    "oX6BZRnUOTA-3DPdePV5laUg80uCUialutiT2gWCyM_AyCxRUT_unIrBPBiUZaGb01V2p-3M3aptBw",
+    "A2ZIOgbjfRxvvDeiqzyn4arv8MqiOnUv7Jm8B0S8IqxfMJdqoVjIpSdiZyaekG5NjxmLuBgotMlLBQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5586266716",
+   "game_creation_utc": "2026-06-21T15:54:21Z",
+   "win": true,
+   "teammate_puuids": [
+    "ka2LASCFJCkTLTuFVlJ6Nsddj9mhsVhMyQ6H2UUp7oxVM3FYG5bSPKOXZ_3D1HPhT82N8zQxyiASQg",
+    "-gJ1Vs_2joq2j503hE33MqMkKQorDAwfynp9YLF_ihDLOfEqn0ec72EVpceLOGaKSkVcidm_wddB9A",
+    "UaFjKwPmr_4gDe7knNhPNWkhh7ttRxtm66sIoIZ8zeJt7rXpDFL_-fHyapePier1vPxR2gFbiasxzg",
+    "sy7MJMt-RnNXfNUJ_Q75GsSSOatAOU87jc0Wngw6Y9X_AMhb29mbVo_JBVWd8HOKXhC4RngYinVPbg"
+   ]
+  },
+  {
+   "match_id": "NA1_5586465932",
+   "game_creation_utc": "2026-06-21T22:22:46Z",
+   "win": false,
+   "teammate_puuids": [
+    "_ugw_Y1AhwtQ9ZXiXu4KY_Hb2_0RFPR587glzGtMt8c90LGZf8ZMftEXRPga8IzMaT4SfvOkzUA0Fg",
+    "3qnaeHR2kqjAD3EWR647AgkdzTRvtgiLwewK_zKlT-NVk9N8wiJ_svVwH5cShFsz7mdDc2iSplXYbw",
+    "xeGKkiK2cUBXoB8ofF6LZYdkOeJbx3Ib3WSRM5qJZ_WUYU2J_CacS79nji3pAfEYNUl2zXYPi2DsKw",
+    "naI02iAi1lI-m7pC0gpbdKSl8ReWkD8OuLQjLc9dBNmbVcb3IxjDSlvsaAP9NWquyab251tWt_biyA"
+   ]
+  },
+  {
+   "match_id": "NA1_5586495062",
+   "game_creation_utc": "2026-06-21T23:06:18Z",
+   "win": false,
+   "teammate_puuids": [
+    "BJtGjBVh6baT9SnOfbk2IqiaijKV5DXXSii7yroP_6_nFzF1z-SsOZn6zY221RNwoAZjEv7-07sKMQ",
+    "1WcYX6zSvdtrzvFvvCRkiKZoPKkZsDPDTk0YTw0LHKhgvirW68g9yTyQ_SThXD9wbfCP9qRp8l00kw",
+    "fkwhPuTNeySaxQyQjxDWRpcxlS64eYShakCydUHTRrguuP3y-TA0lkxov68EU2gyo8R3G5kxZRSxNQ",
+    "C2VwMUx2cjxq6nTMeq4pC4GFwKoBz3Yd_IU6q17oNYd748E5vaHSGa86nPsxc399oI0Cmws4-x7dXA"
+   ]
+  },
+  {
+   "match_id": "NA1_5586546038",
+   "game_creation_utc": "2026-06-22T00:16:25Z",
+   "win": false,
+   "teammate_puuids": [
+    "LGj5bmoJw3CmoGrLcPouKV3UdBkzIuFTlCVYsv93pdqSIr0UehKAi_nKQfUZbiXkIsT_-KPuhbdpjQ",
+    "yG6OmAOmypesRMpWAT58XcpSPn4fiYmadE_fd_zNjqX0yo7jaGrRAWr4YhM5qv6cLE1mJlU0PyxXaw",
+    "2OtmOv0MGs3MISC2htrlShU5456CeiGvvbteEu1HLCBA0T1Ba2EE9vwEk2rjceeBjP8p9WAkSuK2Kw",
+    "A96vFxk6I63dPWJ8jl6q-S0XUJIlKxOj5Eqrqn-9gFB1QBqBAf7wg9MHhdN4IxwMf5XS6qwNqMdE9A"
+   ]
+  },
+  {
+   "match_id": "NA1_5586923577",
+   "game_creation_utc": "2026-06-22T13:26:28Z",
+   "win": false,
+   "teammate_puuids": [
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "QdDg44yGRhNB7DXY6_TntLZq5__BCaOkZLqausp6XvZohyK2xXCO66TiOSVz6z6OLiacz5r2n8u0LA",
+    "c_mvfTemCVR8yFZYYpL2AVyl0wTdXU65DgjP1yuFfwSK8VG4Cu5vHKHg_DNI1Aa5ytp5E2C7Vxgv1A",
+    "6FhMSaeLE4S0mAkWg9sVOuH1Vye-vO03zFOTAwtqDfqYamF3B-xkOZ7UXDKh6kYt2qp2x-jtWwdMRA"
+   ]
+  },
+  {
+   "match_id": "NA1_5586973949",
+   "game_creation_utc": "2026-06-22T16:56:02Z",
+   "win": true,
+   "teammate_puuids": [
+    "9t8SfYrszTHH6WAn4uUDvHA-188DQh_KC40hWTroPAflzMCeLeFqX7OYPG5gkdxSwnio7HHHsgFjhA",
+    "zjMUQZvRf-i884CyKcFmXcKlm-TTRURr6Tl2uVJs_s2x5btgt7XQDPqzSDbOIOC4DuWfOkVrG18r5g",
+    "Vj99qpgMw64477EwokKK8-iGC4LiHxpSUWoh4pa7xlVomJY8SVXqJNwcfsxyWVbaNruVJwySELG8fQ",
+    "znWw9xawiEAnQd80-Vfk_y3bTcIXh1gH8rR8JNG9_dUT61AnSl-PxaVUaQ_s9GitSikrABrRIHJZ8A"
+   ]
+  },
+  {
+   "match_id": "NA1_5587026430",
+   "game_creation_utc": "2026-06-22T19:24:16Z",
+   "win": true,
+   "teammate_puuids": [
+    "pAYCkf9j1lr8Sov33yjkn6SWURP657nLfAR7De3NRmRr35cxzCFTQwsOyRlxSrS-3HqEJbdGgy7ScA",
+    "M1_VoOnBUMmP1Qz9i1cgcMylg3ZZUa-i2sF67FzQGgWtnj0G7NbFsxCxGCH0riBxDITVleIRHvU-Ng",
+    "2aqx5L6Br1OreJGd_Ilfu3Ra3U9uvmAswQq2CHEr9xaFl0x-7wyF1XnQvChpJvTas9IyAEc7McXTCA",
+    "6MeuMQxzBpP13XZqxO32qAR_2TOfBRInYvJei4MvmhC6sdaxY_RSGMrxmX-o8ZKDY7qdovXiSB7mxA"
+   ]
+  },
+  {
+   "match_id": "NA1_5587227061",
+   "game_creation_utc": "2026-06-23T01:01:07Z",
+   "win": false,
+   "teammate_puuids": [
+    "xAA-1gE7bOm2ND63jiOCDgYHRDnZ9pNq3wUCihIgYV-8_iV2uKiiyrcpNpNw4c8O6mLK4MMffzrCrQ",
+    "kbj2yjXn7QcXDAy0y6tThWm6BgnrvqxxgvATXzwEBi-sQwiD2Fl2jJbEbSWSwa94Y4iE6CgDUDGMwA",
+    "BtzefS0HNAS80YPNv2_lpizyP4iR_kppvYUwt-ZD4iuzgHFdHztm1juB-uBPS3hUk6ZcFiMcn2fsxg",
+    "B3I6DKUkimIy8nZjLVCJBs5x3lxkoq-ZrmDvvkG25qVGkQ_tH7DfT42fQtyVB75AlaizOf4y_5AGCQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5587252222",
+   "game_creation_utc": "2026-06-23T01:32:50Z",
+   "win": true,
+   "teammate_puuids": [
+    "2ZqWZi47qDR_1UG2nR2sFmXRMfZow1DnM2EDdiPbVPWoYv9YeAUhqQ_ybgWxJz8j4ICPtRUqZsYN6g",
+    "uCUTfDCp4DoKMcQ0-9h7x48IubyuldcgsX2uCXalTSTV7F_0mZM3FQjd5RA7R01Klvj1PX_wBQRi5Q",
+    "KNQ9mkgpJ62wtq5uLOftdFqlW9R-lqIYvjuS8355jGK50vkbgkPa_1gV1kqh1SdQOEl0eA_7ljyiRA",
+    "7tLBNxGBA-6CNz9URviLK3BgaG6SjuEpOJ0FVxCbIuRVdpkNN8x9ubszUcRj7ZHWwoDqTM1UO7EE9Q"
+   ]
+  },
+  {
+   "match_id": "NA1_5587552132",
+   "game_creation_utc": "2026-06-23T12:13:21Z",
+   "win": true,
+   "teammate_puuids": [
+    "e_lbKWSjEfBegmqs1kKMQ24W7Cis51Uml5-O9tlaZOsaNZ5phdrVOAHeMCsbub7OOg6ZhHgDeMpujw",
+    "5cIwL4SrU0KrXRsu27OlyGCk16E72mqSXF7joDoZ_7htgp33Rrdg9G1SoZnVmZ0bL9rOtQ22B_DDig",
+    "7iMismfVEJGbuo__arS8peizSsTxPxVhnQ74VIN2bGXkaCPPwNhKOrnsf7uXzRZSIXVQWUUW4WRixg",
+    "ArbLvjP46lfvkaO_1TblaPXuKCWpzNAlMsWidGVkemxjQNRbCzZuW6UVO9oJdHiWXX8CLkQHiLKV8g"
+   ]
+  },
+  {
+   "match_id": "NA1_5587558867",
+   "game_creation_utc": "2026-06-23T12:58:10Z",
+   "win": true,
+   "teammate_puuids": [
+    "-qKHEax3JilI_evxjlXdufmIiV6J02Sff7WX2Sw4ctF1edta50dF6ZXIbaXHUZmXU9oaZzlr1slnmw",
+    "Z_AXOTXi9Ri98Ji3eFRY9Hh_iWYwVEaYjR1z2wwBQ4ILPqiI1j9oq72gX7hZJTUgNt08J1Sxci6yMA",
+    "xMJnheCAhXj4Uk4cZes5xPVjilNx6njJ0I_5nJ8tnw8dVWtAvhH-vwD5c24gVSEOY7-KaWUgdjyvhw",
+    "ggtFDu-xk4pyowWPLaBAsxrMkUyIgmuqO88nFHBzkvlM-s5-a004g8q4mWcgUCPJeKGqcGUnLTChEw"
+   ]
+  },
+  {
+   "match_id": "NA1_5587590604",
+   "game_creation_utc": "2026-06-23T15:52:02Z",
+   "win": true,
+   "teammate_puuids": [
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+    "rkZf61OJ3e_DJ4vwvdTNHhPPxkfxl4lTmwIn9zyKKXM-tS9GHc5xhT-hK-IQEU1UWM4Jrvcj9wWbNQ",
+    "QhH3I-IQSVcuGUbLFoe40kPaDD1g-Hc4v6aRRklcEDtwMfO00ztPu-_sJIkwluf90VmchirfOqvHZw",
+    "BaPDqFcpK3qgApr_WTCurLk_ecpbWUbQKGCnOq6F9rVrqkfVsMkPRVsPecWfV2c1dxQYBZD0OhqXzw"
+   ]
+  },
+  {
+   "match_id": "NA1_5587602536",
+   "game_creation_utc": "2026-06-23T16:37:03Z",
+   "win": false,
+   "teammate_puuids": [
+    "ugeMMUoC4Bj7ENoSJReK3A-3Rb0g8SyqALYs_ahis6f8vXQRJoNvMTd9dtUzZDyKIYQPJpWaSlzA3g",
+    "Dh0Dik7oWKRi6Yi-txsw8AuWKF93uwDMue9ZSdALUPot0VHrGeTwYx1G4mi27ElF9z1acV1S-oOQYA",
+    "MA1heSf839rzNdDgZpRy6xmKXfpv05qi5JHJm-M00hmn755QV7iwSn7UGVL41BzzUeV-PCH6gyrduA",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A"
+   ]
+  },
+  {
+   "match_id": "NA1_5587616350",
+   "game_creation_utc": "2026-06-23T17:17:20Z",
+   "win": true,
+   "teammate_puuids": [
+    "7hnleCAEhUQUhfHztzc48f8-r67-LwyZaoqiSbDBz0jlPuO9F-nZeIgZ_rg0mjqnvlcafJzXv7cfFQ",
+    "oyKbIqAxNGwYMquYGPyuV3qWJ-XRAaW7RaJxA5dtmkIdjQ2ArO5INExDbaa1m9AV7251kBJzvXQXKA",
+    "vc-BAa6whuHZ7TtuFBNIIYYh7Qku7urGCICTMx4IKy6spiLMqiCUmcGiiFaDi0xXOtTuMWsxJVAQng",
+    "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A"
+   ]
+  },
+  {
+   "match_id": "NA1_5587627759",
+   "game_creation_utc": "2026-06-23T17:46:14Z",
+   "win": false,
+   "teammate_puuids": [
+    "BSBQF7e1eBtoJAsda4jPSoJ11SF-NaFUyULUWRFu2UTvwvACZPB1SaJqQbyMwqjbeRQrZiwWIs-Y5A",
+    "z6sGO1fX7FUrfyK-kOWZ6Wf5KZQ9-qVFpByg_9ftxHTyDkQs-8lW_5JK3VlNfBCCDRlTSzgA2W_vgA",
+    "PRYpy1mDz7IelyJ810p1k5n3ndMkB8Yv9v0pZp9qIYTr9b7ntaxBkvj9Fot-aKEf36V3DxbxW1mX4w",
+    "c_BknktM8_KIDdA3P8j-DqxUh0H6Idj6ZjoBMaWQ9XvBdiF9NT9lSgjg8hw2558TmEj9sUJJgwtpaA"
+   ]
+  },
+  {
+   "match_id": "NA1_5587638460",
+   "game_creation_utc": "2026-06-23T18:25:36Z",
+   "win": true,
+   "teammate_puuids": [
+    "XyqFBbqP5jd0yoCWOcRHQrmwID2U37TKa6hjcPt66sTYIsg3PXt30SA6TiYkjeeK_QBJy09pFkc5Xg",
+    "4X43yfrrAHVx0jm5HSpxmUbyewYCFOXpLDrBJRDvFP-q05IdP0ocb76zGc4yYAgzQAncm4Dn3nzalw",
+    "N23kEurSfl2HKxfzbA7jgiijhvOlKug0MXGRhfvBO2uoeIksMFerTgWvKialr2OGjvRlzDQmGwOZcw",
+    "j4TByD5MIERGKkYzUC5xTWIaZqAoG6xgB2yy0VNcm2-ZGe3HT1iqaieOriv2Wgq4SQcvc_81J2nprg"
+   ]
+  },
+  {
+   "match_id": "NA1_5588105185",
+   "game_creation_utc": "2026-06-24T12:41:08Z",
+   "win": false,
+   "teammate_puuids": [
+    "CFtTBUuuRhOj_s63wPnzXdh6CAF8CEiMbGh1gQb1GK_gtfAyL8y4EOy1fUNibgLsnAWq06j3tI9JgA",
+    "XgVG5IKdEyeZLnsaoq_5ZhCSkQ3qyOeRbi3MTtUbOdMBItRceAUV-xtHmjdGjHjS7sRaO2QXkobF1A",
+    "Wlgi-ld8X7KFmg5ubzZnCIP7YuVXLZypzCDGdcWmPNv16MqAHdsuIyENsNfFmrQuCXfCywvxuSjdQg",
+    "l_63hLKX2yoPS4vc2EaVDSI3wYZGc7K-n9V1Z3VOwnjCHPPRX7LSSU8g1-5jOM7E7cNXnXvz9bddMg"
+   ]
+  },
+  {
+   "match_id": "NA1_5588111823",
+   "game_creation_utc": "2026-06-24T13:16:31Z",
+   "win": true,
+   "teammate_puuids": [
+    "SEanD_MfE-U-GHx7VCbHRsS7SGyG1UgLoig0xS-hsOnEfAfE9JPwjY1Xelt9sF3RmIv4WLOVSOy6tQ",
+    "4slz_uPV4mSFqLb3c0Em7do2EGAU2AJLxsFubDlX1pT_usMLMuLE494vYzAQ4dh4ZE9avYI6XX6jdw",
+    "6Y97v4skqfqtSJROW7QXBXpDAfzDKa6o0xNVBQjSKlAhPMOnVGAvcLIAXlBbc78E8FrGzaTOwO1lvQ",
+    "Ai3O3rs4fkhydgPq5HbnqeIh5UWD8HVanDCU1QY_BALCO9drFydCU5gCWZbQEcBZ-fO9tRZ8FtsXlw"
+   ]
+  },
+  {
+   "match_id": "NA1_5588110392",
+   "game_creation_utc": "2026-06-24T13:25:39Z",
+   "win": false,
+   "teammate_puuids": [
+    "zFbb0ILOOXiHY1cxG8QNPpitam73FNrmVHRc0J2iW5bTgTmU2utG66GdM94BQKaqCg0xfUrRoeqI9Q",
+    "Xn8-rjjaeFb-wWMiiPUq18S3jXYg_9cveooJDg6LI_PhVgeV7S3s8ya7z6f56Xxe0uRSk3gMpW8q1g",
+    "_d6zl2ahMZIUw9ioWXTTRLbsXqKLUpDd2hdEJ3OkF_rFOXg81RTQV4-3RjTniGwsmAhgWWVpL-NlJQ",
+    "CkyaFIp34ZAjs-_bpQPfHwSV-hCm7tKxJ1q_qRPySPDqxDmSvowzbCkQ0HtmPdaO8sgirVxbuuIl0w"
+   ]
+  },
+  {
+   "match_id": "NA1_5588119452",
+   "game_creation_utc": "2026-06-24T14:23:38Z",
+   "win": false,
+   "teammate_puuids": [
+    "55IgK3b8mK9aqj13zHEOZHBNIccqS7DT6YC9LgGcQ3qjMZz_CL3micTHAmPu1_UqnFlO0fImZdy7gQ",
+    "-Ji7-WQCqIMBr0-LBHb-UxKA-hJXfhJ6v_0Mx6xgoOnaE4ttdJS6MITWGnVQmYKbbgtnJg9l_3qe2Q",
+    "-skw9tcEL7QKhGCZapxMl-kFiV2H3S_hLyZUdx5saEtfWs8zxQy8DgT_kf9V7kbeVubCw0xuigE3nA",
+    "YhKHczvOLO-wzRF1QoPmIzzYTRwQvOztjOkVLmeaayWPNF6o2l6L5SEUGz8b_pa7sB9Kg4vwUAPL-Q"
+   ]
+  },
+  {
+   "match_id": "NA1_5588140961",
+   "game_creation_utc": "2026-06-24T15:39:11Z",
+   "win": false,
+   "teammate_puuids": [
+    "c-U-Jm9dtW-lkbw8I6zX7jgMqHSvS1-tVe0SeDD4UHemGYxz5tVj-3M9K-ZZhdlU85wfZi5FHejkDg",
+    "9itXwc-shwySUgDMxxu9T7vCeO_P4LDb8gBIhsDFnHx1Yj22kqijB9bpOzVZ06YcG1kJj_Vaf8gIjg",
+    "9cetpU3TGg66wX2eEo1KYT685eQWLPuHaDMqws3j9VEZF0hb2RPmcjUs0e3jnT_VMaCBi5QcHPHG_Q",
+    "ZgPZJTMxztDXPvxDJJqQWPsRAy8P4HfPul7qTmxLRnt1Cn6frdi52LwTCZeJaHty72YLHoq32hIOfA"
+   ]
+  },
+  {
+   "match_id": "NA1_5588234758",
+   "game_creation_utc": "2026-06-24T19:36:16Z",
+   "win": false,
+   "teammate_puuids": [
+    "6PXgT96hVtnQ3jmFdOhrJ0q-zMemo_9h4uWGk7yjqEpWQmpQO2UIppWqFopKmbSctcUdiLYe2ZgPyQ",
+    "D5sdHUzdc_caPAd42Zfb9QVrs6woESzDtste-gW9R9DgvcTXJ4Qb6i7Pai1R1s4mlVFIxjPGjmp5uQ",
+    "u2TztYMKrxNu6DYdHZpB5QrBI2gOt11vCqySboaAAJjDVkZ5X397OLgpQlM7NWjOxX7eYqVCkbzsRw",
+    "la_QWi3woyhoJ2dyFCS9G1wV9t_g5bTSKXdGpeVZnj89rdO8B75kQfxqvIgm9LhS1EekHbcWRPXbxw"
+   ]
+  },
+  {
+   "match_id": "NA1_5588302379",
+   "game_creation_utc": "2026-06-24T21:33:52Z",
+   "win": true,
+   "teammate_puuids": [
+    "_3FTsF3DmRdMMFATBtVFYqt6bEduAuX5yodebYVPLuIGskGmqjIXACsjmrM7Sk_rWuz9KwmZuiIQ7g",
+    "q6GvSE6jHo37g69vwTB0Vrf9Arc4zhgmvv4Um1NcZ7sQ3KkusWod7gX98IYD11HFScIok-3o0yC29A",
+    "v0GvfAl8ba0ZVuk4OD3YYJTVTNPw5s1VrZVE9U5bxTjhX4B9oNkd0hMc58D_m17KP-xvOdRR6Qf68Q",
+    "F_LHl2dBWTVySyIonmqW10DE5tKKhV9VhllgSqxF0hMDNraHgnt3LVJYO8h7aJ0GNWzIq3NoHSwyEw"
+   ]
+  },
+  {
+   "match_id": "NA1_5588432024",
+   "game_creation_utc": "2026-06-25T00:32:59Z",
+   "win": true,
+   "teammate_puuids": [
+    "XhM9m5ab5zW_fCiyHyXPVF28rRrkbDGWWmWlmHwV0yjab_4LlYrd2ThQUC8GwsqOsJXgy7Gmryk8Zg",
+    "sUmdXof5sYFNC9eUZWMy_wUGjflONTY439XYcg2Zld-gPbdyAbGJ_4-yPMIo03aSarDu2mv_iDc-yw",
+    "8fKUEMVcRhQtuioEhZEELvi_y5-yr3wODyKgYf5XD_7YCfkgYy53uVXPs5-Y2MvubN1xgBHeXWHSxA",
+    "y14ZK8D1RNDZKgmLzoiYRiRGYs3UTE5Lx0LbzjQYbLkmOzUBd1CPR1nDZ-Hn9kbr2ji2nFIoUx_c7w"
+   ]
+  },
+  {
+   "match_id": "NA1_5588473776",
+   "game_creation_utc": "2026-06-25T01:19:49Z",
+   "win": false,
+   "teammate_puuids": [
+    "ktCk9Cn6GLV6N2ulgUxR9wjX-QNn_jClijXwOBaWU2RJBAkn1nD1ZKYx5iQC_5_0AC2FnUlOVFL00Q",
+    "UucC4n0HuowSIXe2ULDA3o5EStKWl_SBS42j56EUElwTa1hAaVhvPN28ytNtZtU8vEOesdU8KDuqyw",
+    "J5-c0_LGYZciSeiMpCzxhV5iK92DDigW24EocpobBaetNQFfL58fRaA9EG4IwgZyDTY46G0JS7r5ow",
+    "uVfmjZq_O3Wec52MBcbITb2PYvKYhJW5ER6UbLNP8QID05SxiZ8oMpam5DLHbXII8EsCbZZT_Z9J1w"
+   ]
+  },
+  {
+   "match_id": "NA1_5588505096",
+   "game_creation_utc": "2026-06-25T01:54:19Z",
+   "win": false,
+   "teammate_puuids": [
+    "d4G5AZtGVv8MgdDtTVT2FPDl-ET0AOyx2qL9iaY4gwsKERoNMMrUIAGEOnGFACzpDIi_xrQFLtAHbQ",
+    "9oG_ivkdoJtlNKZ5paH7bH-vbv_1DkalcybSvHtX94Kb0-9QnQ_t8NdaOc73I6V1KYoqI_GHoz-dHQ",
+    "sEz52MdizHovFRhqLkIDsb4N3g6YOAXSPe40NSon-OxzCXzfdcx15xUOH03vWRq99AR4t2I19PiQgw",
+    "Yojqa8CVcvO6rGLb4S9ujQxy4T3X7X-0flk5joBETJsq4BC2A3xwYq9qHnxCDnIfZnNT5r44_eYNsA"
+   ]
+  },
+  {
+   "match_id": "NA1_5588822353",
+   "game_creation_utc": "2026-06-25T12:45:55Z",
+   "win": true,
+   "teammate_puuids": [
+    "bYN9kAZWTjzBrHJqgWUrd6CISE_5_8SLTF3t3ZpkgZTLG6Igjr4IfTtk4dQRYXBtfzXi5nM7feh1nA",
+    "6GkjWfi4CSmD9-hpS6EXXPWtu0FVzRzEx58IwcOLNgTzo8lsDjxm8t-fhd-vdC2VLuTz3FWOj0apyA",
+    "G4tubp5GurMN9tUrR7URniud8uXn50ornW_VOvJUCm8PLXy10OvD947Q2wfXtIuhF-H5GgR5xw14pw",
+    "iye4W9uSlzjAqNGanlbU1agJwlIkwWeg83gNcEpvBk2vm4TBCRzB8PtGtW6agW-WeiteHa81tnbAsQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5588828699",
+   "game_creation_utc": "2026-06-25T13:28:59Z",
+   "win": true,
+   "teammate_puuids": [
+    "scO04QxKmeR1MoU3OmP5tuCrZVRU833RzZJns9iqduZexneLsvt6IE2uHx2qpf2FK7QgRzeeClXEkA",
+    "zGVa9FXV7alVLBo6uql_7t-i4CnfPoTgbxDzd3GQwJHRqC8Fv7omQlbq30HzcwWNQ1-TLfrUwcMITA",
+    "1W6tGApxYlMMNuvmKaM88R2XReXrFyxClKiEWdu62Mrt9wujV43bBvBkuwwjU9NwTglz9wOGmQLoeQ",
+    "yQukGvMdOANPbfbVdDtrFNDd4X4VJp_6Hqs7_kod3qDVDbtDzPQxRyPn_nLe_rpLrulaQA_zzx9rFw"
+   ]
+  },
+  {
+   "match_id": "NA1_5588836028",
+   "game_creation_utc": "2026-06-25T14:03:32Z",
+   "win": true,
+   "teammate_puuids": [
+    "XphI43wX7ftyWmPIN_bocMviZrW_cBVx-q8MAp6lZZMmeVUSgik98oWP-I46kyzq4Bdpzeze0gjx3A",
+    "qx4po2dudBCuzxaslg4swe8IHfIv4XMfqshFSeF85x3AR8jhFzDf8_84hpQDVcLVq9Xtj503wdFj6A",
+    "c_BknktM8_KIDdA3P8j-DqxUh0H6Idj6ZjoBMaWQ9XvBdiF9NT9lSgjg8hw2558TmEj9sUJJgwtpaA",
+    "9fTjTm9wyRUkoJYP4j5ogZLhlGqjd0i833J31Qb8hYRJAiuNlx2K_QjwfOQOLdT7fy_-BqWkx7_BVg"
+   ]
+  },
+  {
+   "match_id": "NA1_5588843280",
+   "game_creation_utc": "2026-06-25T14:35:36Z",
+   "win": true,
+   "teammate_puuids": [
+    "A2D9DkFg6YXH3oa-PONsTI1OHo8RmzmlJatpoIG0Dm5UR59xYbiiZjf5JCRRBc9Kgc2oVedScHkPTg",
+    "Npsm-Y_Xg72YSD5einCcaC5UiGoAmsi3KXwObO6pYYMBoSZlUDsfpdB88qlW5ZThbBwwHiQ32PoEAg",
+    "c_BknktM8_KIDdA3P8j-DqxUh0H6Idj6ZjoBMaWQ9XvBdiF9NT9lSgjg8hw2558TmEj9sUJJgwtpaA",
+    "60jMG0D5eE8dIdEDB1c5y2bQKcU-xRc_ExvaKHNK5tvfJQut6OCJryc0R27bfWVaa0PnFEQRD_UoQg"
+   ]
+  },
+  {
+   "match_id": "NA1_5588908138",
+   "game_creation_utc": "2026-06-25T18:09:15Z",
+   "win": true,
+   "teammate_puuids": [
+    "nZIlWEUu4jkZV4WKmsS1g6NNENMqkwV1qe-JWgw1xVgH4b1JXyaOA2dbGgfGuWGzOIhbJczvIQTcXw",
+    "a5wnFXK9qAxLFhKncIIvogcBmdqkytunHZz6Tz4k6bFZGghQrPhUTdYn6Kghk9CtcRoHsftvtRu02A",
+    "dGrLOsdD_fZEMxjho4W52euffCTjRt885v5nTItqEGBkz9EIl8rLlmGbNMhmBPKGzjb02bUFv8Cy_Q",
+    "IwNguJ1adYSF2U25vuVO2VB9AcRusjP0GYq-MIee_0hlmZcS8RiDCtcpBtHFmrinBRDr1srCGa0--g"
+   ]
+  },
+  {
+   "match_id": "NA1_5589065841",
+   "game_creation_utc": "2026-06-25T23:24:13Z",
+   "win": false,
+   "teammate_puuids": [
+    "IFsZcm7174jJ3DqVge1Um7HQQcWVFULMJ41uKTrjLr9jD07uyCo9bnhK1vVYPEk8Pw-eHAdPFiYOXQ",
+    "h_ADsUTD40wphqx-QBUq2azr77WuMsF4Q6cg3_sdPwrkW4kt0jC86rF6pQSLtoBlm6WMcxQuMFyEfQ",
+    "1l0ArVJIrgbCCMJQZ8xOnHVmUF3GHm4Ild6QaXz8gaLLS-2XU-2wOYTFRd_bAu6NWK6bXMPzoMzOVg",
+    "FbMDxM77meMd09wvAk4adaC_gZSDT7ipPsMPDwJ42zy12W3b7hZx9g_02f5LLv0KcvHxuP34WBYFtg"
+   ]
+  },
+  {
+   "match_id": "NA1_5589072918",
+   "game_creation_utc": "2026-06-25T23:34:34Z",
+   "win": false,
+   "teammate_puuids": [
+    "7iGP5w0I1s1-MsX_DRALfzN84jqFxWeeytNkY9FGgDDK4BJ-ObxgDzFXMXIpO_QCxWWJUW6H9FWbRw",
+    "1sI2OddWvfcyf6R3PIwikO7FBgScYnMPOJ3Dt9LpaM3PMAhuu6IvFTsw-0fJJ-eg32MdVAqAFBEyzg",
+    "tTUpQiitoqEj3UsFAWDWgJyWwEhgPxRUs16LDOwgpgEPes-A8clkOC2tyVlzf4hUK-sTGADL8p9Y7g",
+    "HYwRwmcmQGRr2DBe-4hfHs4C5zM7lf_yQpXtC-wXkxPUVng4fVFAYuGeZsDNekqyM3E6v74RxAFJdg"
+   ]
+  },
+  {
+   "match_id": "NA1_5589180659",
+   "game_creation_utc": "2026-06-26T01:57:19Z",
+   "win": false,
+   "teammate_puuids": [
+    "p4PBaql2IhbBtGi-5AZNOcfvcaqr7jxloBmk3NIJfGDGpXnnjYKJELc0ps_8QW1LXE4Tzu1fiBxNDA",
+    "Nn1_BHev0c_0eXJX55zrV7De7IUOlUkdK_UTEUGgU6Yx9MpJsrPQ9qxWciLlgmCPGMuhmER61Qrzcg",
+    "B0LoleVMkackdToXfCIbeBbi4D8XbM7adpZq6QEP2XknQmLRdmEzr7e9Cv4nw5kzOYkEoOVtjtE9SQ",
+    "bSsICnwkwad-2FjcHpQ9qTMe-z-JSZV30b4n3bQWeD0aMyj6tLcncvG7dTt_YZvF40RYO0J2a4EAmw"
+   ]
+  },
+  {
+   "match_id": "NA1_5589477091",
+   "game_creation_utc": "2026-06-26T12:19:34Z",
+   "win": true,
+   "teammate_puuids": [
+    "DuckbtxcH4gX9auWQKL-6XCkoWx8SypmeOOuMypOPYjxK7Q-fitn6bh9IywRotTXe_eRUdGAGs_R3w",
+    "jnBF9z1OaTH7U0IELKgNnVJMEF41aOXP7gLTLDj2M_SeYTB6YnGF8PfRQpm30cZCOZlnWutRWmODNQ",
+    "inhWm78Y-9ZNwPZ1dWYGlaRdJKYl8X7_fw1NMRzr1nclShNETKlO13D8iaa5KcC1t1fI1yEc00o2DQ",
+    "W0I6vB4lf-3Tifq7ljKmE88By1v0nidd4vQt8U9NfLeHarXU0KN1pHSuvxWOFcAMCg1UWhJmSMWrJA"
+   ]
+  },
+  {
+   "match_id": "NA1_5589479389",
+   "game_creation_utc": "2026-06-26T12:43:19Z",
+   "win": false,
+   "teammate_puuids": [
+    "XSOrjei3higsnaK5n0-SVf_zMoOYYqwHouxfFb_Tuhnl605voLqQm2La3sYQiTYe9jr6viLid2NrBw",
+    "j8g3Jtasq2JDC94i6j4y1DcMGMJoZblXN4Zxlz5yk_uGj0x07A7mBajK6EJjuv4Y2wy8cxllSsyQuA",
+    "WkeeiI_26hLm0ybKedP5N6doS1XxEzdaXL2TUGZe3nNHZsy4ZqV0gfb3eP5n8I31tNPYYmi2DALDvA",
+    "_oGbDhp484HgQ5LsSCY81jrymS-DEIL2YckoUBYuIi8pAv7MhoGSs-lbU0o3JKa17Qt2T6t9KyFgsg"
+   ]
+  },
+  {
+   "match_id": "NA1_5589482605",
+   "game_creation_utc": "2026-06-26T13:15:08Z",
+   "win": false,
+   "teammate_puuids": [
+    "STngtedNI7sjwQNA7qLpqaR5Lby8eoFHS8DvMkHsPopKPE8wRjf_U-SUHiA7lfcasfW2zXuMxU0MCQ",
+    "6U7HHXqnSqwGpFYohBjN5GumAQYOFYX7P7l7qeqBQ2pRt4RZkGY7WMtMvrCs164TfOs9YN7Gmt3zvw",
+    "UtnW1xx37CspmNwoQdLCtmyLUwnk-DAHxYUabANi5QF0kOHJ4Zmz05YbKUk5GzQqSIIe-zopTd3VVA",
+    "uInpIzaHmhD1bGLrOUpkRyyi1EeNFxPMh0XpUeylMpBCFkn7gObUVUuw4bME750WblrzKoTrFOSVIQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5589491743",
+   "game_creation_utc": "2026-06-26T13:47:29Z",
+   "win": false,
+   "teammate_puuids": [
+    "WHyDnqISVE6SwXeL8EHmClBM2Fp8Suoh_lBVHioI7k4ic6xbY7xY4uYJ2BKCH_ZiXfoUMzP94wSP4Q",
+    "6Hgbnv5ca6t8mv1bAkgoMw0tqBRlnhkI-LOLqWgF8M6oMM5KwsL8KN-ckdxDF6kDAYyhzgXJoN7dig",
+    "ird_umu7wzzH3P4btgEnhTdUzrnWQ6ItccRHfyTzxxwnYV6qV6AthacbTa-AQLDNV3F3Von8N9ZqZQ",
+    "NnGT_KPROxmdWbe0qkQzO5ElgICrsCiETO5-FU5iEKQzE-thwNuBMbt69Ov9K2NU8g6EvdPGJ1fSXQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5589502280",
+   "game_creation_utc": "2026-06-26T14:47:26Z",
+   "win": true,
+   "teammate_puuids": [
+    "hyNcgcPZl4Ou6CEQkig6hm1QWrTyVx7GXGJmYKX5EBMzhEci9_kwOr5ubsAjPgbFFRdG-nOzXgwbKw",
+    "VjH4TNYFfWLnaicst0hD1Zg31ToXEn-iwa933sAGWdysFM1KARU7UMoF-eZYQNefeQGfHaX-8XIHEQ",
+    "RM58YprnbM-Vn8dgAoXeTwAUjTHEPr1WvIBHKWPsVYcLNsKmoYvmLrJAuCsK-ICB-l9LzMvHrMmRxg",
+    "meoeV5qTJWdNryu7bFWK3ZZgjR_FyBuqORmpBbAYgln0jtq4td2Pgrmu5I5XVWZemBBn9k7tWkpaVw"
+   ]
+  },
+  {
+   "match_id": "NA1_5589517230",
+   "game_creation_utc": "2026-06-26T15:44:52Z",
+   "win": true,
+   "teammate_puuids": [
+    "feqzkWnHE11IZYNIE4572aq44RneVxrPrz9tiCkb045s4I1h13UaE5Aoeha2QMT8c6bsofehhaaCfw",
+    "YS0D5RH5v-4ab8znL_QykUDw0XCZRDlwqDzRMIB_MYjVgWn66Cb6GDKxy2N7564TaXTxfR_722a2ug",
+    "YL3P8F92d8WtsWDd8sFKyH7e0scyFjWo7Ju7757-ZPHLY8i_-X4jGHp27ktYJSUPRHXcierO4qn0ig",
+    "cO271IkJ980dtKEvpjzvg76F_4JYmF8hmSyZy1G5hlaujMmSLs7iyGju8SdMVjpvrnZXEc7wd7tDGA"
+   ]
+  },
+  {
+   "match_id": "NA1_5589541573",
+   "game_creation_utc": "2026-06-26T17:06:52Z",
+   "win": false,
+   "teammate_puuids": [
+    "0a_QcWnrcGaAlfHH9te3tHLFL86d649TRkTp2eWNoLarnUh3kaOeuUkXlxbi0EDIVSAnwLOpu7G0Zg",
+    "zb1CvxqxiAOEQcN-f55sipXfbaU082Ov7YqLEo11RTcF22SgG9ZR4H6xkuIclYugFj3b7G0f65-N4w",
+    "HjkzSju1SzNFCXmXZGE4w3luhs0ZshrzY3t4DI3NkUWw3upwtwe_ukk2dwiBHUtye0WWDE22Xn9O3w",
+    "m7QnkeN46oxuM9YntZRMSHThXpMm4yYlceAWfIjbJfVQ9sncuJBI5TJ8AKEaXdSByxoykd7Wib5AYg"
+   ]
+  },
+  {
+   "match_id": "NA1_5589752806",
+   "game_creation_utc": "2026-06-27T00:07:53Z",
+   "win": false,
+   "teammate_puuids": [
+    "H4T0E4cnpuw1CxxrNBsTaJM6L2bQzjvqdHB-ecNy-bC7iGCFSK0uPf560tF5S31qEfp19THv_a_QIw",
+    "-m9TCNwGAfXwPjG-WmSj6IqXzp8peay40ops6ehBj6ijYgPOraCxPVc0eu_UW3M8cIYiDnKHfiT8pA",
+    "wXqzQTc3W6TAikkYaANF8VMW_n_0WDc-0y1sPxbMzLtNob-a8XlAcwrXuHLJl7bII1lOrJNAeLVb8A",
+    "Lk5iR8Deb__BIlizoIqNq_E5OWL5JbUxdQoCdxvrTWA1JNVV2s94yC8sPUDhoRWxFt5MuLUuxvAJOw"
+   ]
+  },
+  {
+   "match_id": "NA1_5590575009",
+   "game_creation_utc": "2026-06-28T02:25:59Z",
+   "win": false,
+   "teammate_puuids": [
+    "7PjWg-8UU8z5ya60o1kDgFZLvgEkFezDIfUWmLiL34QiImynEhbhJLyiKJ_jQQxbJrnvSQst-10geA",
+    "TKyYgh8euImpsseLoseHO1Ee2Y_vyOxTjjdPw-nX7dZmxVa-VBMFxmtnqZoDt6ziNFn7CQvhP8grkQ",
+    "WlAB9-cXTO0S_RpitJL86pVnC5MHffjj4jSroVw4CDSHfp8C7XWBKDWD1AbOlfO_fHF6_ge143Aavw",
+    "RNXgKAeYJSlpj485QEGztQ8DQ1kAhwXpIZheLGdmnzHWv2boig1xEKnyGGCx6q-2TeG_n75mGqSiww"
+   ]
+  },
+  {
+   "match_id": "NA1_5591089023",
+   "game_creation_utc": "2026-06-28T21:35:30Z",
+   "win": true,
+   "teammate_puuids": [
+    "yn1f8oIqGbZmwoB34dKXBLbNCkMOEZsRlyamXiKAEaZujY44uYKeRRdBW5ayBeWiYOIuTbDIpqB1Ng",
+    "Ykz6ZiNN2thts00-Dg49fZLLh4UaK0W6gyDBG41Ayhr1-QPrffjf_9fiZPZQk3FsG-y4Tx42iz5vKQ",
+    "YfwLatBYgn6kCRj5LIztvERENkgaHg8tKcEOW1ajZpTOooM-WPV3hYOW4rKn-52RmJfy_PhxQP4MCA",
+    "sl74CeMTtIOjQQ9J1Mk6GLdKIl9nJPWBOZkQtMd3DUaKpApoq1-9R93PGJE6toMGyd3-iIKyf98tIw"
+   ]
+  },
+  {
+   "match_id": "NA1_5591185221",
+   "game_creation_utc": "2026-06-28T23:51:25Z",
+   "win": false,
+   "teammate_puuids": [
+    "LBko9pYI1AqVUfgh0Si6e2bZJ-It16cnngAUYgS5XVZUcAgoGgA52G09u7a77SrJpckrEtaoPjRUig",
+    "n0LK3ccyf77aHY3EzQbrNwBwl1Vx4aGhvLxx4-_4KxIcsjkqCqYksC26Dat8LEbRVfOT5bpeUOVRjg",
+    "6lNbA-0KwbsIRSTfb4y2yj8HzSetHBY3McHz-4sqDcSdJRsOp5Ck-UnopnIgWS0P6BabK28s0PA0Kg",
+    "LVvL85TzIltigMHsf6U2u6n_tHNJTvs-qTpEH593LYoc_i7TRM9MQ0gWhJhJKCxIwdl4lgGEOYoFRw"
+   ]
+  },
+  {
+   "match_id": "NA1_5591214168",
+   "game_creation_utc": "2026-06-29T00:26:53Z",
+   "win": false,
+   "teammate_puuids": [
+    "E6QUtLh6OcAWoIQKMe6HHCYVm6P9VyhfDL8GsAcfFckEeykrFctG2tQmjJZ23gqtADXQoRZc2mtO0A",
+    "3U4GMtDgg1O2cWEMXWIJBxNLPOL1OVCfGNZaxBQnRRcRNH6rYJx4iRHp2zA-_tQKLV2JnguW_KvC3w",
+    "euvXEuFLIjBki31X4p35I8Fx9X0ptEJ5fQ7EYblyciaYQW1J96UTqCx5IACCdSpNeQFX7rT7WgylUA",
+    "EfeuNDiJ5zkPabmseJPARj4UpNXArnpliIRJ2JbOO56noCazy-LT7TgHEmId3vroN-1iVvmTukVJWg"
+   ]
+  },
+  {
+   "match_id": "NA1_5591619925",
+   "game_creation_utc": "2026-06-29T15:53:25Z",
+   "win": false,
+   "teammate_puuids": [
+    "mqHXKebzm6S7GQlNBbc83pRoqgg1YSFQLeY3SbLf9974ny9v_oa7J3XCPFY9jNErwb3NR-YXPf7yZA",
+    "-T5cLGqtFf0EE-deQsOiXlPlsx4CwUVMbRjUavbX7wHDHDVRpXdlRsqQ9wx2G8mDVLS5kUM81k7QRg",
+    "gvluTcU33TbeT8k0FTg7Ti_Uavsv3pIpZfH5UzNBSBV1BuJ2bA2p3KppDrbo7Qy6UduE7VUtnZOFZg",
+    "WEmJTiuiJPRaFoVA0M-0SOoAscONyTWLNws_Ys6_coE3Tjfim0fVMBdZHW-azuP9VziaH353EMrIMQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5591633360",
+   "game_creation_utc": "2026-06-29T16:46:44Z",
+   "win": false,
+   "teammate_puuids": [
+    "WfWvvvGe1KpvRafC4DblHlyPYHAFSDDzaLbbmBtqM7-M0yAvt35MwOoRolE1z1Uba38UXNPWa5IeLw",
+    "e7byqxMH4Dksz0md1HvqpocyAjr3-5puw9_5SSoYUBY8Qbxaa5s6AScFpSKZ9_MmnvpoKHGddxxFoQ",
+    "LMXISYbYtBy4HAPtEIQS0-QbyeWp1H1tKLnbfdiP9BpGqzRwwdzlfKkOaYfN3kVKx7Pd6RFGSC9k9Q",
+    "YslEmfV0_McAT7biejXlb01zWeEIQFMtPaffojKh4DWHlLxnQYEvwHPv8skZmLcmfUdfqMS64iujNg"
+   ]
+  },
+  {
+   "match_id": "NA1_5591659937",
+   "game_creation_utc": "2026-06-29T18:04:49Z",
+   "win": true,
+   "teammate_puuids": [
+    "dqcfS2R2kJUUP1Rg28ivaybMrPUJ1xiIv5IwvpaOBdhp8NY-sPgjP7RnejrQsUzcq2CIbyq8V9wm0Q",
+    "AAXw2eUbdXBlRrMrXGPbGv9E0vB4gb0V_WHTa1FxDke0PtevFfF6qjZN_Ed9VOGBEruK-SzPVblDVA",
+    "XUpa2-pXiu0QDSMSMb0mPR9DrOI-bCjgi_c93ZtdYHouAMZ5X0uzCC59vvvddRjR5OUezN4hKQhlPw",
+    "mN0MypqvGfHAUczK6Mqk2gv6-4VSLK4uO14h3FPowCv977o3DHyu_3AeCT8JyCyFCoHayndcT-ikLw"
+   ]
+  },
+  {
+   "match_id": "NA1_5591670052",
+   "game_creation_utc": "2026-06-29T18:32:23Z",
+   "win": false,
+   "teammate_puuids": [
+    "RDsU3hlgWY7rqGJe4loeANgxQrThCGAe3tOBenZX1xOT6D90uiaJGX2qx4QNvneBBPP-rdKv52A6VQ",
+    "a7AGVCBEBw16QVq7jrXlShD2zovFa4ANCwpxf1e5-mPbLMXNvaP-OpIkmiK32eFZ5HaaskW3lKZJmQ",
+    "-hg_qnoLDFFCpJ72uOz2qUJHJ72gD_AlOKKb0d1EwTvAxQ2a1XXF6wup3Y4kK3-VEPCN3GbuHd_vKQ",
+    "qhXWxPRDgxKaxmc6Iq2tEEauG8tzgKZ8vlTS5X_WK0bnOBijG7kIDVlQ-FidyhwZpvfnCYTyiPf72g"
+   ]
+  },
+  {
+   "match_id": "NA1_5591712236",
+   "game_creation_utc": "2026-06-29T20:13:09Z",
+   "win": true,
+   "teammate_puuids": [
+    "87rGG_WIgz0a1e5i4nVTL5a1XIZ9qA_oG7QloG6N98OgXoy6DvqKDE255a0aEYgYpYo2zvmpe3l-CQ",
+    "NpA_lrQ1WOAUf6jc6211DV1JDxLQCTXWwnuWO22XGetyFznOUDcDsc3PoLx8QIOE8liwbakxiGflCQ",
+    "OHXKbj-LdZKC4-6Fsrf-dY-Nlo5onl-ugwTFG_i3BgRxu2OsNaqLfbd1QOL-Y54Eb8aUjkcB5Ilxgg",
+    "j8a_cX0ULeuL8-_mofrdtxEDu9p8eE9olIfYYJOpKe6RnkGLlaW_kZH0sy9C7w4X_sOZrPj03NZOAQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5591807515",
+   "game_creation_utc": "2026-06-29T23:10:27Z",
+   "win": false,
+   "teammate_puuids": [
+    "Tp-c6x9IqCH04Rm8lknwyW_mh3zsuGeEN_JijLOCznU24rRcHO6YAZrTAFBDG-BDMc8BkO6dXrlQ2w",
+    "isFAhy1qtegZjXfIdweFab9jmQz2gXU4jw4BbTlFhT7Tz_MRfyVDyTbGLAkz6qtDeIq_XCxhqDMoJQ",
+    "6FzZcBOcOVDsr7dTfG0sGvrOr7HCccTeCeFBmQpFK-ShhEdxgplRMpXgzjlnEcAzISx9TPpb-yGrnQ",
+    "HnjossUdT3GSepDZE4Cu7UtM7sMJARkNgXqYIV1qS3kS5oPsaOdyDuqMK00qqqjWk48-4NQNQD0mWg"
+   ]
+  },
+  {
+   "match_id": "NA1_5591923996",
+   "game_creation_utc": "2026-06-30T01:39:05Z",
+   "win": true,
+   "teammate_puuids": [
+    "3oyZIo1V46Y3_fjtc-_NSaL0GFheroDCp_3_uD4VNiIY3hi6Ol-wutzmJBztuxS0Bqpa0cU7oKY-xQ",
+    "4i2684rTQ9JT4b66UX0WQE4s2wsUcrx7rNb1OrvFhyfQ_l-V1G372DGfl5kz3X40vqP5LaAVOB5ZhA",
+    "b8uetHnmOB8QeZfazeDRviUbk_-eNw2WTEI11UfQUmuhfvO2LEaoyIbDt93X8G-r2LNAmV7ELkHOGw",
+    "q9qAbNOsdcNwgCd6d51XsWSXFYXbL06JY5cH7uVgQRCDiSTH1JB1uXWVbfJ6n9TWbJL20atkfI3ZlQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5591948259",
+   "game_creation_utc": "2026-06-30T02:08:08Z",
+   "win": false,
+   "teammate_puuids": [
+    "FwrjBjCeQ8JqRvqoqgI62kd1KR_NJtiLwAZINn8_NEEEmOyXN2lOR0y38yLo9x1-CjCuNSdeW_HW-w",
+    "cHbe-NJo8vvNEJH-TPvrpLtbEyVAJ1aIpcOQJIK-bZo8T4bUB9weJYoc_5z8-eyBzdphGmKI6O818w",
+    "D0sWPFUoe6_YGz7h8gxkiOPgmH16QT6SwIEKydZvfQ-NE2su2b5I_3nnoZqQospp1NbnbMzioJwCLQ",
+    "8YgV1XKyvE0yzntPFssOiRRI0K4_GV95RT7oBhh--TdpGA6REtcifuSFSMnSLNhEhVYt0SSeMnGoGw"
+   ]
+  },
+  {
+   "match_id": "NA1_5592238662",
+   "game_creation_utc": "2026-06-30T13:43:14Z",
+   "win": true,
+   "teammate_puuids": [
+    "jex91R8k1ViXQ7YWGHlKiGEttBeP-RUgHnx0MB83U1SQPq0lho2rfQ2ktNpcFsj1iTOAGiqvninr3g",
+    "bRM1pNQI4aSmB0zHqkAvNJ4UvHd7bs76e-53o7omlvXGSZgUJFHrKV-eD8nSqtDrL-inx-ASiWcBvw",
+    "_o9pLPX6b_T_mREQJrFJykEHFInkw6iDfj7vCzHJM3c-Li6njuQzv62Njg52H4WWet9DMTHBSyvXXw",
+    "rfSmMdm2fQxRnafjpg5d8h4tLQ_wpb2niObBFoe5jO4uetITi1YiY1lqMuwMmyYqqEfYzr2Kv8DNVg"
+   ]
+  },
+  {
+   "match_id": "NA1_5592272015",
+   "game_creation_utc": "2026-06-30T16:08:22Z",
+   "win": true,
+   "teammate_puuids": [
+    "eLcgUo7UZbfyjTz70OrpLjlwIvYwbVzlzB-mAfHDjUx63tTozYv2uIiefmV4Rou1jvfTFRF6Pibx1w",
+    "z6JAMzlPsk6B96h45apfb3QmQVoQG94hC5lQjmWbVlF_LpEe5fu1QPmgCIPHE833iPdq4QgGE8eUYQ",
+    "b1rIClqx3mRR40zFyEIlKBiCrgQVIVZYOl80tR126i8Cy_xKlrZXbRQagPULq_ukR0TBdCZCDfn0ug",
+    "QOJOtIDvy4QdmC2Xz6jwtPSoc9sB5BT-vxMbfV8ASNtUkxwOzr8OLw0FhZsyicYwKcAtBQET3qy8rg"
+   ]
+  },
+  {
+   "match_id": "NA1_5592287233",
+   "game_creation_utc": "2026-06-30T17:03:46Z",
+   "win": false,
+   "teammate_puuids": [
+    "bo-1pudUvE8Mf4CjraAjlzMc4nTFHTuTuHllDk-E-dL5K0q1CKS93xU61FuNabRYUhCdL3oz1ZqANA",
+    "hANuuIP6gMidGIrps4CfwOFvUtPNOAob7WV_BTLW6krh2G8r_Dma1uclR3mQKtOxXgXbTOVjIu5BIQ",
+    "od1xnw6qT6DbN7lYRg3bb34UknxyVZwnHOgLehITGTyKQ3zX42wUh165V6nUpmf618_lVs1GBf-M-A",
+    "dPov_abXpzmKMoSpqg9jAau4goPeFSaMFav8yy-2unUZ4Ss28A1tJIvxQCb-8ybwfhLxJyLp0PUahQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5592294542",
+   "game_creation_utc": "2026-06-30T17:30:34Z",
+   "win": false,
+   "teammate_puuids": [
+    "oZbz1IMbv5nhizuYdr40dY9e5Q2M1p1nGZJ3_NC-SGd0bxfSsVNEBt3LMvVSda-WXI-_61_MZfqK5w",
+    "LeK-MRmHASf25x4RJj1yoHUyh85ztPhN0jGZUG63L_SfzBOS-2oqCFK6WOBYkus3d02VvrPDgR0V2A",
+    "CQ3rSdggyugIk6evRgFYwJEvcODo912UKkfTnaCe7Tzggb8hayNQsAmCO9j76oFWotUXZocxQMVsxQ",
+    "0kd5_jwfCDdcU6So2uOp9PQ106_Rq6C7hYsBBOClWOUkWxvQxvkEQGiD118RzJZxw0H53vXzcrbZzQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5592604888",
+   "game_creation_utc": "2026-07-01T02:21:18Z",
+   "win": false,
+   "teammate_puuids": [
+    "D9k6MiiMP_HgeByi3hCVIz0hozR8K3hmHZo2vbmLNvPJchMtBsMlgGCxHeahKm8bJXyZoVOLDt43EA",
+    "jMv0U5C4PKs9WhKfVaPlRw-CPDYzHmLlSyuPzUdTG6rYaPD4FxjoEp1FlSqZl8KJ3JSsoe2SOf_bMw",
+    "KqK6p5zWt_q1kHV4eT1pINWNt6PMusSjzFHsi9xCw_ug6DxLumqsB1xyu5pqYXdIiDJ5n_7tgannLw",
+    "7MOjhfPy9ckgkhrP3YwOdwKI_wuRS9AewYW4N__RaCp0U90PCNVnfr6RX9ND_dtXytQHF2buIsCk2g"
+   ]
+  },
+  {
+   "match_id": "NA1_5592953063",
+   "game_creation_utc": "2026-07-01T17:54:42Z",
+   "win": true,
+   "teammate_puuids": [
+    "-hB1fZb0icwheNeCApyR7wtwiijelc8pr4CRh8VPVhpiob3tVuiQhs4REoKoKlBdvSgB6-q_gx5PCg",
+    "JJ_8vj7nk15CRTYt3vP5AlBoFXsfuK3swly90bc7bD0uby2s3NtcjEjEqk3am130nsV1kAvJyTTVPA",
+    "4lRsbV_3dMcLaGLsCytiEinkz21Zdp5LHTLVQM1fuaaHDlx_rD2uBza9QWhRdssNIkHil4XIM1h2sQ",
+    "zw3H54tW-mtG6k0y9SVDTEpHB6pnPS-VuCxC_DblKes1vXYm1LmAUM-VLRho39hf5r849_IAvWU2hw"
+   ]
+  },
+  {
+   "match_id": "NA1_5593012969",
+   "game_creation_utc": "2026-07-01T20:10:53Z",
+   "win": false,
+   "teammate_puuids": [
+    "kvaO99PxZwQC9AYcFoHj6_p8PvtST83SSG0aHY8ibVOzh9j3ZfQKVrd-cGwoU5orkXHDf3EwmwwgJQ",
+    "GpbYsy3YMUhly-iupgNdtcRDzcI9fc1i9saled1HIhqiC1FVZ_7b6JN2IBCcro8Tu9SYQkvHlLyoVQ",
+    "Yo5p_ljqBZjQS87YKQHGsWXxB4ZowUAjaI6SHcCn3wyet7xsg0cMfwATS_H-yugCIO3tn1F8FQmQMw",
+    "1VCexqb9BChgocMr--STuUPbzjE9_zC-WB59o-jO8lMH2AXrKnCfnQTpHAupn9o01_GXI42icH3bnA"
+   ]
+  },
+  {
+   "match_id": "NA1_5593121406",
+   "game_creation_utc": "2026-07-01T23:24:46Z",
+   "win": true,
+   "teammate_puuids": [
+    "4rqGjdrCTYw-cKElAWIouLPHJYhDbsIkCmJ4DJEi_rA9OcaEA6-lIrFWy85pOu1Rf4wMYGmLxzjFag",
+    "Oxl8RLjemjQcDbZVQDkmWdESRkVXMfLg04ixAbXt88k9mqCAWKcvs6CJiTith3Rcx2NeSCEpzrEr_g",
+    "H1mQAQs8TQOQK7hOOd6OdWcxXtrcuqbXHuu8IhTCg9-Artuv_LQmcJIj-IT4nVYljEXdMSeI4C-kPg",
+    "pCZKGF9Ix1argK80CY6JfXKVS0R2c4iDWjaaILzF-hUwrnSiUEU7gLbNYsrqYGoswm-y73_4cKDCxQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5593184326",
+   "game_creation_utc": "2026-07-02T00:48:45Z",
+   "win": false,
+   "teammate_puuids": [
+    "bym7JcZvnYYg9R9cQZzSEE-QnxlCPiavDgisc80DSf6dn0lByl63dI7lpwjaCRui9Qom6ysQqlWLfQ",
+    "rSXeihPni5WBg5zNo5XMwUCV5CEk-H0ldsbWd-uy_By8KExiC4ugJA8rc3zN70_kUg2yjUyok3eW9g",
+    "LQ5XWl9r8bcoYGK6GF5WN4XZ8yEQQ0M-4XQPZutKxCV2y086vDLeCkacsJxgQWPsrcOau-aolOvleQ",
+    "1nLfOFr9jF4pWMxDWHsqKaW3ZgiijmsECLmbGW72uC1tSINvKl7PjgQJkCbG1lEwYTryoMNY5g0NAQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5593542577",
+   "game_creation_utc": "2026-07-02T13:54:37Z",
+   "win": true,
+   "teammate_puuids": [
+    "aJiM_tWnhPRJuraQF4YtlDLOcZ4ezgh01FAI_bOzm5UD9jcU8GI02kuSo6C-WNnpc-i2EoXPnQsTmQ",
+    "9s4HoegvCn7ymxpuDyODUzgLB5giiPeD-v7jwBeLOSUq9csSj50O4dcpbf6xAqOdQnI9mN6Bkz54zQ",
+    "B3I6DKUkimIy8nZjLVCJBs5x3lxkoq-ZrmDvvkG25qVGkQ_tH7DfT42fQtyVB75AlaizOf4y_5AGCQ",
+    "woleNAPIRmur2peSdmvJ6fN1Uri3FSllDBKdD5z-w3zNPMwF_oE9wYHYG8JDRNyWbsi3xAAYhbV8QQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5593552323",
+   "game_creation_utc": "2026-07-02T14:42:36Z",
+   "win": false,
+   "teammate_puuids": [
+    "tn17reQaK3vSXbIUaLZ7Lb2un1gWUj8LRPw4f1_Y-gp9ZygxLHF4lGjiqQi4ZMFd6a-21cZu5VwS6A",
+    "0jaKJEGWdt9jtnGpRTh7I_hDnadJ_8nBHCaEjhKjbyKo_eWJos8MPwZursdSwX49SU5sg3N4Czcj0Q",
+    "a0sbkipQQscZkAGkG8w6_rx4DjzO0353DlZkPR8XN_mWSulQ86I2fg_hA6nMXw0hal1MQq1tTbYG9w",
+    "35HP4CYUd9H-sZ3YyF8UEhlGEe0nM4uz802fl8M3CqijEygMd0bgSbNZELqF5Q9q6MIhA_K0zPhjAw"
+   ]
+  },
+  {
+   "match_id": "NA1_5594238041",
+   "game_creation_utc": "2026-07-03T14:59:46Z",
+   "win": false,
+   "teammate_puuids": [
+    "Eo--iZExicFFJALL96XNS-9AcnwK7uH4uqGVjMBFSNdbVZjuHSs6MfPEG-JYDPgUxngysEim1pmSDA",
+    "sjcuYOi-roO5L8w4HpbWqoadZ2xRL2l2HzVhAq_8pwZFCrhxxbxt-TgWiiXXiy8FlZ9aoYPkNPw1Pw",
+    "4V_wG1welOH7ZZcHi8Y3rIvVF12OzfJueHJMOiopdl_I4JUR2ULIYBumKTcUnIZTKSZ1h5vXnIbtZg",
+    "Cser0DyboYZljeYDfDvjtrU4LqHU5V_2Wj_spONRTqOu9S5ZQt8o4bDZRCvMNdGyjGfqFVijDmBnHA"
+   ]
+  },
+  {
+   "match_id": "NA1_5594363412",
+   "game_creation_utc": "2026-07-03T20:02:31Z",
+   "win": false,
+   "teammate_puuids": [
+    "nuSECGv8MyMVZ1HujQRpSeaQ9K62ni-vaQ-n8B0c4jiXnI5iNeYZDNiCk3J6EuxtNnhj5FcbGjyoYw",
+    "qkJO7L_1QI6RguJGcstToYHgpjygFOMySgQmwKuY5ZugDXlDHMhgIlIb1KnnuAS8JqDPPWOLOUqxpw",
+    "wmtRJggzLdaUJ-_vYBX8KBTWZ-0y5S5tVXRsmNFZbmPeju1Sk3GW50jRiINqZNpm8n6l6PzaZ6-GOw",
+    "5ODZWKmWRDJl1P3Eyi3oFUWcZGuySFcZ04y6K7AC_PBHYcvkT0cwu6zoJPg66RH6QNu9FT9GEL1Tug"
+   ]
+  },
+  {
+   "match_id": "NA1_5594471030",
+   "game_creation_utc": "2026-07-03T23:08:58Z",
+   "win": true,
+   "teammate_puuids": [
+    "1DziaFZXISDCJShlabwseYdVxSlw8ctDQqG5GMzVZqO1AuI7MVY_p1d3_s6-JcK799oStnEg1lPQaA",
+    "33UmhltwqTsuW3LPE10AWKtW312QEgTIL_n04OKd7SFKvfD272of5bOI2SfIsk5JBF0q2P3yiyt8-Q",
+    "l5PgA_p9diKHWH0rOdhGnGbcWn7tk6qL3P6l86-j3TkYPpOW3R8g6x9wvCIfWkIizridZxQmbhDUaQ",
+    "suGORmv0pewxMWkOWHAGPFPML_bVmFeXmcg8bOF4OjercFX8Z69wHgwJc-jINyE61bxoL9Y_M3RYcA"
+   ]
+  },
+  {
+   "match_id": "NA1_5594476411",
+   "game_creation_utc": "2026-07-03T23:20:49Z",
+   "win": true,
+   "teammate_puuids": [
+    "ExuKU3Hhz0iz4bY2dDtddZLGdpBp7Eg9uvWtsB-57ZAasNHEScNbFmTAFIcKrP_ZbiEdxC_yWnDpKw",
+    "_NphwgzBGtpIV-pJBHMdt5jz9QM8zkVX8pvaOaD8fjoKL0AfYNUsptU-fgwPEe-9OTqgjZnz1KI2Ww",
+    "bJ1yUaXOTa5sd4Vp5F3o9jTQL9EdLgjGt_Rdt_kCOs0VcAy9Z6VNPj1WlEnD8Dv33TbbdZFjIo8FTg",
+    "o8LBuULidpcX7GAMBI9AHO3QWkZd6xofFXEY9ORF9IcQNkM6J2A7Q2nVwV3ZNppCSFeKg9Gmq28juA"
+   ]
+  },
+  {
+   "match_id": "NA1_5594532165",
+   "game_creation_utc": "2026-07-04T00:51:14Z",
+   "win": false,
+   "teammate_puuids": [
+    "86c3khxYJ41IAqXPb1cV4daBFG0VoNjJjI1k3WhwxZKG4uDcRayuYvIKL5xvonkRFOMLNHOFFR73vA",
+    "ev7tWiAWt6GqTMCndS0OVumMLWvlPUVGZqp5OtbrDVYqeONa7f4pVN-HOFZQtiG8CW8KSPae0hHo8Q",
+    "P3xItSMJ5sg7lofXF9V_hri8FSR3Kp-AgTUUBWOZfszQdRHJdwqak4lE6PEZOYX5NSL62FxPZtk7gg",
+    "Hel7sznuL_N7Ld39zBSIsR_8QgRuWaWISHNt_DwSJz-aIn_65wMKnnlmK_cDlqFGObmHLb5BkgypKw"
+   ]
+  },
+  {
+   "match_id": "NA1_5596891161",
+   "game_creation_utc": "2026-07-07T12:44:10Z",
+   "win": false,
+   "teammate_puuids": [
+    "hIZ2t3cjldN5__mcwm8DRwM3SNA-yETClUZutOhJmkLB4elY9wprDnhquhLEk6MkSi3cv57o5wFCpA",
+    "eXuBztlQ7jtCaOiF0p0ZYoPvKN7jq9YY6CP9HXU_LmRqxbMMrXukg5zDPkSA6O75NOUd3_KE88qPMw",
+    "Ax40km067C9sNuICH0iObegGJTOw56ry-XAgf8_Ixj_ATClEgfuVw32uo4WcicCukjf_GNf3Vi-LvQ",
+    "A1Ix5MXb94d_n74z9WWMlFgispjwdMTLM-eiRjXt4hQwDc0brZItj1hQ30ST-lWkjTI3NGLlqPwDcQ"
+   ]
+  },
+  {
+   "match_id": "NA1_5596892674",
+   "game_creation_utc": "2026-07-07T13:06:34Z",
+   "win": true,
+   "teammate_puuids": [
+    "zKGtjwclg7exkY4FfA7nQ-c7o6qzbXDIRBNZS1L8eisjWsDHKFq258GCrZUQVpZi_WipT-VS6wSeFg",
+    "iQkpxzAKUpZBJcKcXsNwrMcUH1DtGmZWP1iujs4JLYH2VQvrpwbYmaUcm4HIp03_kVLLMmJax1iPpg",
+    "hIZ2t3cjldN5__mcwm8DRwM3SNA-yETClUZutOhJmkLB4elY9wprDnhquhLEk6MkSi3cv57o5wFCpA",
+    "6x8Hu7J4WlQiBGNhrgReiP2VGritCVn06ljgKTDiOvxUImvTt6sX227zxjW38vaRJUUjqR2v_1yABA"
+   ]
+  }
+ ],
+ "repeat_teammates": [
+  {
+   "puuid": "wV6ZzL9aNh2dWiX4cyO6vZ5IB6zXtDVtRPFktfYD4Wb3EA1C64xWqn4SONn6hmJOm2jwQNxyXjy96A",
+   "name": "pawngrubber#NA1",
+   "games_together": 14,
+   "wl_together": [
+    4,
+    10
+   ],
+   "wr_together": 0.2857142857142857,
+   "wr_together_ci95": [
+    0.11721187910109099,
+    0.5464954117248438
+   ],
+   "wl_without": [
+    35,
+    55
+   ],
+   "wr_without": 0.3888888888888889,
+   "wr_without_ci95": [
+    0.29469758863910056,
+    0.4921773154546062
+   ],
+   "fisher_p": 0.5614339721436359
+  },
+  {
+   "puuid": "hIZ2t3cjldN5__mcwm8DRwM3SNA-yETClUZutOhJmkLB4elY9wprDnhquhLEk6MkSi3cv57o5wFCpA",
+   "name": "Lalizig#0001",
+   "games_together": 5,
+   "wl_together": [
+    3,
+    2
+   ],
+   "wr_together": 0.6,
+   "wr_together_ci95": [
+    0.23071993220883708,
+    0.8823817688407467
+   ],
+   "wl_without": [
+    36,
+    63
+   ],
+   "wr_without": 0.36363636363636365,
+   "wr_without_ci95": [
+    0.27561748409823283,
+    0.4618428432401205
+   ],
+   "fisher_p": 0.3609196442202759
+  },
+  {
+   "puuid": "c_BknktM8_KIDdA3P8j-DqxUh0H6Idj6ZjoBMaWQ9XvBdiF9NT9lSgjg8hw2558TmEj9sUJJgwtpaA",
+   "name": "najdorf#NA1",
+   "games_together": 3,
+   "wl_together": [
+    2,
+    1
+   ],
+   "wr_together": 0.6666666666666666,
+   "wr_together_ci95": [
+    0.2076549551264879,
+    0.9385096847238394
+   ],
+   "wl_without": [
+    37,
+    64
+   ],
+   "wr_without": 0.36633663366336633,
+   "wr_without_ci95": [
+    0.27887722904962386,
+    0.46359140935345267
+   ],
+   "fisher_p": 0.5545402627070246
+  }
+ ],
+ "repeat_vs_none": {
+  "games_with_any_repeat": {
+   "wl": [
+    9,
+    13
+   ],
+   "wr": 0.4090909090909091,
+   "ci95": [
+    0.23255559668820378,
+    0.6126552261710619
+   ]
+  },
+  "games_with_none": {
+   "wl": [
+    30,
+    52
+   ],
+   "wr": 0.36585365853658536,
+   "ci95": [
+    0.26978466322708194,
+    0.4739293402397686
+   ]
+  },
+  "fisher_p": 0.8053219175289517
+ }
+}
