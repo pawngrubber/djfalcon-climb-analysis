@@ -1,0 +1,3 @@
+# Raw API pulls stay out of git history — durable copies live in ~/riot_cache/
+data/ranksig/
+*.gz
