@@ -1,0 +1,5 @@
+# Subagent: death-timing analyst
+**Model:** Opus-class subagent · **Spawned by:** the main analysis session
+
+## Instructions given
+Question from the thread owner: do death TIMINGS correlate with win/loss — dying in lane vs dying at the 30-minute mark? Use the already-cached timelines (216 cohort matches + djfalcon's ranked games; zero new API calls). Requirements: phase-conditional exposure (a death rate in 20-30min only exists for games reaching that phase); censor the final ~90s of each game to kill the nexus-fall artifact (the last lost teamfight mechanically writes late deaths into every loss); the headline analysis is composition-holding-quantity — given the same overall deaths/min, does the timing mix shift P(win)?; distinguish solo deaths from died-with-team via temporal clustering of ally deaths; match-level clustering respected in all inference. Apply to djfalcon: his death-timing profile vs cohort winners, and whether his mid-game deaths (the thrown-lead window from the loss-anatomy subtask) are solo-death shaped. All within-game correlational — say so. Iterate publicly on the subtask issue.
